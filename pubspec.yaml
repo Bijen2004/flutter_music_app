@@ -40,6 +40,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_svg: ^2.0.10+1
+  flutter_bloc: ^8.1.6
+  hydrated_bloc: ^9.1.5
+  path_provider: ^2.1.4
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
